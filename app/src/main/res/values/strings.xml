@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWord</string>
+    <string name="look_at_this_useless_button">Look at this useless button</string>
 </resources>
